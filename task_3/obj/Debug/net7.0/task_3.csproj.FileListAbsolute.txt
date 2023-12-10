@@ -1,0 +1,14 @@
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\bin\Debug\net7.0\task_3.exe
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\bin\Debug\net7.0\task_3.deps.json
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\bin\Debug\net7.0\task_3.runtimeconfig.json
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\bin\Debug\net7.0\task_3.dll
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\bin\Debug\net7.0\task_3.pdb
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\obj\Debug\net7.0\task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\obj\Debug\net7.0\task_3.AssemblyInfoInputs.cache
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\obj\Debug\net7.0\task_3.AssemblyInfo.cs
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\obj\Debug\net7.0\task_3.csproj.CoreCompileInputs.cache
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\obj\Debug\net7.0\task_3.dll
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\obj\Debug\net7.0\refint\task_3.dll
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\obj\Debug\net7.0\task_3.pdb
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\obj\Debug\net7.0\task_3.genruntimeconfig.cache
+D:\proj\csharp\gb_csharp_seminar5_functions_two_dimensional_arrays\task_3\obj\Debug\net7.0\ref\task_3.dll
